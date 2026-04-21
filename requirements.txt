@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+lightgbm
+scipy
+joblib
+scipy
+streamlit
+plotly
+

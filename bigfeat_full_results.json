@@ -1,0 +1,9 @@
+{
+    "test_accuracy": 0.825,
+    "test_f1_score": 0.8249838187702265,
+    "cv_f1_score": 0.7983341824849599,
+    "best_model": "RandomForest",
+    "total_time_minutes": 12.188084963957468,
+    "feature_engineering_time_minutes": 11.251244942347208,
+    "final_feature_count": 262
+}
