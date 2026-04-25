@@ -80,6 +80,10 @@ The best-performing model is selected and refined for maximum performance.
 
 **Output Screens**
 
+## Application Homepage
+
+![Homepage](images/home_page.png)
+
 
 
 
