@@ -85,6 +85,27 @@ The best-performing model is selected and refined for maximum performance.
 ![Homepage](images/home_page.png)
 
 
+## Implemented Feature engineering
+
+![Homepage](images/feature_engineering.png)
+
+
+## Evaluating model 
+
+![Homepage](images/evaluating_model.png)
+
+
+## Validating performance of model
+
+![Homepage](images/performance_validation.png)
+
+
+**Conclusion**
+
+The project successfully developed an efficient AutoML-based feature engineering system that bridges scalability and interpretability using advanced techniques like BigFeat FE and BigFeat AutoML. The system automates the entire feature engineering process, including feature creation, transformation, and selection, reducing the need for manual intervention. By integrating automated feature engineering with machine learning models such as Random Forest, Logistic Regression, and Decision Tree, the system significantly improves model accuracy and overall performance. It ensures that even with large and high-dimensional datasets, the processing remains efficient and scalable.The use of BigFeat FE enhances the quality of features, making the models more interpretable, while BigFeat AutoML optimizes model selection and training. This combination helps in achieving a balance between performance and explainability. Additionally, the system reduces development time and effort, making it suitable for real-world applications. The end-to-end pipeline—from data preprocessing to prediction—provides a simple, user-friendly, and scalable machine learning solution. 
+
+
+
 
 
 
