@@ -80,7 +80,7 @@ The best-performing model is selected and refined for maximum performance.
 
 **Output Screens**
 
-(images/Screenshot(11).png)
+
 
 
 
