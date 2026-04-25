@@ -31,7 +31,7 @@ AutoML systems use advanced techniques such as
 
 The AutoML life cycle consists of several interconnected phases that automate the complete machine learning pipeline. Each phase plays a crucial role in building an efficient and high-performing model.
 
-**4.1 Problem Definition**
+  **4.1 Problem Definition**
 This is the first and most important step in the AutoML cycle.
 In this phase, the problem to be solved is clearly identified.
 The objective of the model is defined (e.g., classification, regression).
@@ -39,7 +39,7 @@ Evaluation metrics such as accuracy, precision, recall, or F1-score are selected
 Understanding the business or real-world requirement is essential here.
 Example: Predicting whether a customer will churn or not.
 
-**4.2 Data Preprocessing**
+  **4.2 Data Preprocessing**
 Raw data is often incomplete, inconsistent, and noisy. This phase prepares the data for modeling.
 Handling missing values (removal or imputation)
 Removing duplicates and outliers
@@ -48,7 +48,7 @@ Normalization or scaling of numerical data
 Splitting dataset into training and testing sets
 This step ensures that the data is clean and suitable for machine learning algorithms.
 
-**4.3 Feature Engineering**
+  **4.3 Feature Engineering**
 This is a key phase in your project.
 Automatically generating new features from existing data
 Transforming features (log transformation, scaling, etc.)
@@ -56,21 +56,21 @@ Selecting the most relevant features
 Removing irrelevant or redundant features
 AutoML tools perform this step automatically to improve model performance and accuracy.
 
-**4.4 Model Selection**
+  **4.4 Model Selection**
 In this phase, the system selects the most suitable machine learning algorithms.
 Multiple models are considered (e.g., Decision Trees, Random Forest, SVM, Neural Networks)
 AutoML tests different algorithms automatically
 The best model is selected based on performance metrics
 This removes the need for manual trial-and-error in choosing models.
 
-**4.5 Model Training**
+  **4.5 Model Training**
 Once the model is selected, it is trained using the prepared dataset.
 The model learns patterns from training data
 Hyperparameters are tuned automatically
 AutoML may train multiple models in parallel
 The goal is to create a model that generalizes well to unseen data.
 
-**4.6 Model Evaluation & Optimization**
+  **4.6 Model Evaluation & Optimization**
 This phase checks how well the model performs.
 Evaluation is done using test data
 Metrics like accuracy, precision, recall, and F1-score are calculated
